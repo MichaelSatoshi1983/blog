@@ -1,9 +1,9 @@
 export const SITE = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
-  author: "Sat Naing",
-  profile: "https://satnaing.dev/",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
+  website: "https://undefined.today/", // replace this with your deployed domain
+  author: "Michael",
+  profile: "https://undefined.today/about",
+  desc: "Michael 的碎碎念.",
+  title: "undefined's Blog",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
@@ -12,7 +12,7 @@ export const SITE = {
   showArchives: true,
   showBackButton: true, // show back button in post detail
   editPost: {
-    enabled: true,
+    enabled: false,
     text: "Edit page",
     url: "https://github.com/satnaing/astro-paper/edit/main/",
   },
